@@ -152,3 +152,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 Made with ❤️ for the Flutter community.# platform_detector
+# platform_detector
