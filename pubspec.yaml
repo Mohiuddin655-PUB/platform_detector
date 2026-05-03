@@ -4,6 +4,7 @@ version: 0.0.1
 homepage: https://github.com/Mohiuddin655-PUB/platform_detector
 repository: https://github.com/Mohiuddin655-PUB/platform_detector
 issue_tracker: https://github.com/Mohiuddin655-PUB/platform_detector/issues
+license: MIT
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -14,6 +15,6 @@ dependencies:
     sdk: flutter
 
 dev_dependencies:
+  flutter_lints: ^4.0.0
   flutter_test:
     sdk: flutter
-  flutter_lints: ^6.0.0

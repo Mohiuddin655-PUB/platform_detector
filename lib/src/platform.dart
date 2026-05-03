@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart' show kIsWeb;
-
-import 'platform_stub.dart' if (dart.library.io) 'platform_io.dart';
+import 'package:platform_detector/src/platform_stub.dart'
+    if (dart.library.io) 'package:platform_detector/src/platform_io.dart';
 
 /// Returns `true` if the app is running on the web.
 bool get isWeb => kIsWeb;
