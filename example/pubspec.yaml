@@ -1,4 +1,4 @@
-name: platform_detector
+name: platform_detector_example
 description: A lightweight platform detection package for Flutter and Dart that works seamlessly across web, mobile, and desktop without import errors.
 version: 1.0.0
 homepage: https://github.com/Mohiuddin655-PUB/platform_detector
